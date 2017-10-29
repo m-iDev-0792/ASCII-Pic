@@ -1,11 +1,11 @@
-#ASCII-Pic
+# ASCII-Pic
 
 a simple program that converts pictures to ascii-art pictures
 
-##Note:
+## Note:
 This program was bulit with Xcode + OpenCV
 
-##show as below
+## show as below
 before:
 
 ![](rabbin.jpg)
@@ -14,6 +14,7 @@ before:
 after:
 
 ![](rabbin2.png)
+
 and ascii-Huajige:
 
 ![](huajige.png)
